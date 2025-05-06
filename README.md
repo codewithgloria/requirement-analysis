@@ -9,7 +9,7 @@
 - Requirement Analysis is the systematic process of identifying, understanding, and documenting the needs and expectations of stakeholders for a software system or project.
 - During requirement analysis, both functional and non-functional requirements are gathered through communication with stakeholders, including clients, users, and project managers.
 
-### Importance of requirement analysis
+### Why is Requirement Analysis Important?
 - Minimize risks of miscommunication and costly changes later in the project.
 - Bridge the gap between stakeholder expectations and technical implementation.
 - Ensure the software meets quality, performance, and business goals.
