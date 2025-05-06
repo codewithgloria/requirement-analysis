@@ -55,3 +55,17 @@ Examples:
 - They are useful in requirement analysis and defining the scope of the system.
 
 ![Use Case Diagram](./alx-booking-uc.png)
+
+## Acceptance Criteria
+- Acceptance Criteria define the conditions that a feature must meet to be considered complete and acceptable by the stakeholders. 
+- They help in establishing clear expectations and ensure the feature functions as intended. Well-defined acceptance criteria improve communication, guide development, and ensure quality control.
+
+### Example: Checkout Feature
+- The guest must review a summary of their reservation before confirming checkout.
+- The system must allow the guest to choose a payment method (e.g., credit card, PayPal).
+- The system must validate payment details and notify the guest of any errors.
+- The booking is confirmed only after successful payment.
+- The guest receives a confirmation email with booking details once the checkout is complete.
+
+
+
